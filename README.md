@@ -10,7 +10,7 @@
 
 ###### test 6
 
-* *Artist:* Netsky (Boris Daenen)
+* **Artist:** Netsky (Boris Daenen)
 * **Plaadifirma:** Hospital Records
 * **Singel:** “Forget What You Look Like”
-* **Avaldusaeg:** 2016
+* **Avaldusaeg:** *2016*
